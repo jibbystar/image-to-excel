@@ -83,5 +83,5 @@ except PermissionError:
     print("\nPermission to the file denied! Make sure that Excel is closed before running the program.")
 except Exception as e:
     print(e.with_traceback())
-    print("!^^^ PLEASE REPORT AT https://github.com/isaacdevv/image-to-excel/issues ^^^!")
+    print("!^^^ PLEASE REPORT AT https://github.com/jibbystar/image-to-excel/issues ^^^!")
 
